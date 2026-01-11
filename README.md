@@ -1,5 +1,61 @@
-# 💫 About Me:
-# Hi, I’m Pranati Panjiar 👋  <br>### I design AND I build user-centric digital experiences.<br><br>I’m a UX/UI-focused developer and designer working at the intersection of **design, frontend development, and automation**. I enjoy transforming ideas into intuitive, scalable, and impactful digital products by combining thoughtful design with clean, functional code.<br><br>I’ve gained hands-on experience through hackathons, internships, and real-world exposure in **industrial and research environments**, including **Tata Motors** and **CSIR–National Physical Laboratory (NPL)**. These experiences have strengthened my ability to work with data-driven systems, process automation, and problem-solving at scale—while keeping the end user at the center of every solution.<br><br>---<br><br>## 👩‍💻 What I Do<br>- Design intuitive and accessible **UX/UI experiences**<br>- Build responsive **frontend applications**<br>- Work on **automation-driven and system-oriented solutions**<br>- Bridge the gap between **design thinking and engineering**<br><br>---<br><br>## 🛠️ Skills & Tools<br><br>**Design & UX**  <br>Figma · Adobe XD · Wireframing · Prototyping · UX Research · Accessibility  <br><br>**Frontend Development**  <br>HTML · CSS · JavaScript · React · Flutter · Responsive Design  <br><br>**Automation & Systems**  <br>Workflow Automation · Data-Driven Thinking · Git · CI/CD Basics  <br><br>**Other**  <br>AI-Assisted Product Design · Problem Solving · Team Collaboration · Leadership  <br><br>---<br><br>## 🔭 Currently<br>- Working with **CSIR–National Physical Laboratory (NPL)** on technology-driven, system-oriented problem solving  <br>- Designing and building **UX/UI-centric frontend projects**<br>- Exploring **automation and AI-powered product concepts**<br>- Continuously improving design-to-development workflows<br><br>---<br><br>## 🚀 Areas of Interest<br>UX/UI Design · Frontend Development · Automation  <br>AI-Driven Applications · Product & System Design  <br><br>---<br><br>## 📫 Let’s Connect<br>- 💼 LinkedIn: *https://www.linkedin.com/in/pranati-panjiar-ab2a8728b*  <br>- 🌐 Behance: *https://www.behance.net/pranatipanjiar*  <br>- 📧 Email: *pranatipanjiar@gmail.com*<br><br>---<br><br>⭐ *Check out my repositories below to see my work in action.*<br>
+💫 About Me
+
+**Hi, I’m Pranati Panjiar 👋**  
+I design AND I build user-centric digital experiences.
+
+I’m a UX/UI-focused developer and designer working at the intersection of **design, frontend development, and automation**. I enjoy transforming ideas into intuitive, scalable, and impactful digital products by combining thoughtful design with clean, functional code.
+
+I’ve gained hands-on experience through hackathons, internships, and real-world exposure in **industrial and research environments**, including **Tata Motors** and **CSIR–National Physical Laboratory (NPL)**. These experiences have strengthened my ability to work with data-driven systems, process automation, and problem-solving at scale—while keeping the end user at the center of every solution.
+
+---
+
+👩‍💻 What I Do
+- Design intuitive and accessible **UX/UI experiences**
+- Build responsive **frontend applications**
+- Work on **automation-driven and system-oriented solutions**
+- Bridge the gap between **design thinking and engineering**
+
+---
+
+🛠️ Skills & Tools
+
+**Design & UX**  
+Figma · Adobe XD · Wireframing · Prototyping · UX Research · Accessibility
+
+**Frontend Development**  
+HTML · CSS · JavaScript · React · Flutter · Responsive Design
+
+**Automation & Systems**  
+Workflow Automation · Data-Driven Thinking · Git · CI/CD Basics
+
+**Other**  
+AI-Assisted Product Design · Problem Solving · Team Collaboration · Leadership
+
+---
+
+🔭 Currently
+- Working with **CSIR–National Physical Laboratory (NPL)** on technology-driven, system-oriented problem solving  
+- Designing and building **UX/UI-centric frontend projects**  
+- Exploring **automation and AI-powered product concepts**  
+- Continuously improving design-to-development workflows
+
+---
+
+🚀 Areas of Interest  
+UX/UI Design · Frontend Development · Automation  
+AI-Driven Applications · Product & System Design
+
+---
+
+📫 Let’s Connect
+- LinkedIn: https://www.linkedin.com/in/pranati-panjiar-ab2a8728b  
+- Behance: https://www.behance.net/pranatipanjiar  
+- Email: pranatipanjiar@gmail.com
+
+---
+
+⭐ Check out my repositories below to see my work in action.
+
 
 
 ## 🌐 Socials:
