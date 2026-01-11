@@ -1,4 +1,4 @@
-💫 About Me
+<p align="center">
 
 **Hi, I’m Pranati Panjiar 👋**  
 I design AND I build user-centric digital experiences.
@@ -9,31 +9,31 @@ I’ve gained hands-on experience through hackathons, internships, and real-worl
 
 ---
 
-👩‍💻 What I Do
-- Design intuitive and accessible **UX/UI experiences**
-- Build responsive **frontend applications**
-- Work on **automation-driven and system-oriented solutions**
+**👩‍💻 What I Do**  
+- Design intuitive and accessible **UX/UI experiences**  
+- Build responsive **frontend applications**  
+- Work on **automation-driven and system-oriented solutions**  
 - Bridge the gap between **design thinking and engineering**
 
 ---
 
-🛠️ Skills & Tools
+**🛠️ Skills & Tools**
 
 **Design & UX**  
-Figma · Adobe XD · Wireframing · Prototyping · UX Research · Accessibility
+Figma · Adobe XD · Wireframing · Prototyping · UX Research · Accessibility  
 
 **Frontend Development**  
-HTML · CSS · JavaScript · React · Flutter · Responsive Design
+HTML · CSS · JavaScript · React · Flutter · Responsive Design  
 
 **Automation & Systems**  
-Workflow Automation · Data-Driven Thinking · Git · CI/CD Basics
+Workflow Automation · Data-Driven Thinking · Git · CI/CD Basics  
 
 **Other**  
-AI-Assisted Product Design · Problem Solving · Team Collaboration · Leadership
+AI-Assisted Product Design · Problem Solving · Team Collaboration · Leadership  
 
 ---
 
-🔭 Currently
+**🔭 Currently**  
 - Working with **CSIR–National Physical Laboratory (NPL)** on technology-driven, system-oriented problem solving  
 - Designing and building **UX/UI-centric frontend projects**  
 - Exploring **automation and AI-powered product concepts**  
@@ -41,13 +41,13 @@ AI-Assisted Product Design · Problem Solving · Team Collaboration · Leadershi
 
 ---
 
-🚀 Areas of Interest  
+**🚀 Areas of Interest**  
 UX/UI Design · Frontend Development · Automation  
-AI-Driven Applications · Product & System Design
+AI-Driven Applications · Product & System Design  
 
 ---
 
-📫 Let’s Connect
+**📫 Let’s Connect**  
 - LinkedIn: https://www.linkedin.com/in/pranati-panjiar-ab2a8728b  
 - Behance: https://www.behance.net/pranatipanjiar  
 - Email: pranatipanjiar@gmail.com
@@ -55,6 +55,7 @@ AI-Driven Applications · Product & System Design
 ---
 
 ⭐ Check out my repositories below to see my work in action.
+
 
 
 
