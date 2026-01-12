@@ -31,6 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranati2507&" alt="pranati2507" /></p>
 
-<p align="center">You have finally discovered my Github profile, so let's get connected!
-Please feel free to clone projects and raise issues if you think something could be better.
-Happy Coding!!</p>
+<p align="center">You have finally discovered my Github profile, so let's get connected!</p>
+<p align="center">Please feel free to clone projects and raise issues if you think something could be better.</p>
+<p align="center">Happy Coding!!</p>
