@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranati Panjiar</h1>
 <h3 align="center">UX/UI Designer & Developer ● Frontend & Automation ● Ex-Tata Motors Intern ● Design-driven Engineer</h3>
+<h3 align="center">Research Intern at CSIR–NPL (National Physical Laboratory), New Delhi</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranati2507&label=Profile%20views&color=0e75b6&style=flat" alt="pranati2507" /> </p>
 
@@ -17,7 +19,7 @@
 
 - 📫 How to reach me **pranatipanjiar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pranati-panjiar-ab2a8728b](https://www.linkedin.com/in/pranati-panjiar-ab2a8728b)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/pranati-panjiar-ab2a8728b)
 
 - ⚡ Fun fact **I enjoy building what I design and refining it through real-world feedback**
 
